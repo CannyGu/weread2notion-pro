@@ -19,7 +19,7 @@ setup(
         ],
     },
     author="malinkang",
-    author_email="linkang.ma@gmail.com",
+    author_email="mochugu@126.com",
     description="自动将微信读书笔记和阅读记录同步到Notion",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
